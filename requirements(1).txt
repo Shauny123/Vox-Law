@@ -1,0 +1,7 @@
+python-docx
+transformers
+openai
+anthropic
+fastapi
+uvicorn
+requests
